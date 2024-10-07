@@ -1,4 +1,4 @@
-!!!! REQUIRED PYTHON REQUIRED INTERPRETER 3.12 !!!!
+!!!! REQUIRED PYTHON INTERPRETER v3.12 !!!!
 
 to run program, simply start "main.py"
 
