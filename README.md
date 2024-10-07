@@ -1,4 +1,4 @@
-FIST PROJECT on GitHube
+FIRST PROJECT on GitHube
 
 Tento projekt slúži na jednoduche vyhledavanie a evidenciu poistencov.
 
